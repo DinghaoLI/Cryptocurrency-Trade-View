@@ -1,6 +1,6 @@
 # Cinance-Trade-View
 
-## roadhog + Vuejs + Antd
+## roadhog + Reactjs + anyChart + Antd
 
 ![](./image/trade1.png)
 ![](./image/trade2.png)

@@ -1,0 +1,41 @@
+.tradeHistory {
+  height: 100%;
+  background: white;
+
+}
+
+.historyTable {
+  height: calc(100% - 60px);
+  overflow: scroll;
+}
+
+.tradeRow {
+  display: inline-block;
+  height: 20px;
+  width: 100%;
+
+}
+
+.tradePrice {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+}
+
+.tradeTime {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+}
+
+.tradeSize {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+
+}
+
+.tradeVolume {
+  display: inline-block;
+  width: 10%;
+}

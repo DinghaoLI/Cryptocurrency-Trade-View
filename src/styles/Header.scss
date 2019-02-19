@@ -1,0 +1,31 @@
+.header {
+  height: 100%;
+  display: flex;
+  background: white;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.headerItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.selectProduct {
+  padding: 0 10px;
+  margin: 0 10px;
+  height: 50px;
+  border-right: 1px solid darkgray;
+  border-left: 1px solid darkgray;
+  cursor: pointer;
+}
+
+.price {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 18px;
+  padding-right: 20px;
+  font-weight: 500;
+}

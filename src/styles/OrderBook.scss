@@ -1,0 +1,62 @@
+.orderBookWrapper {
+  height: 100%;
+  background: white;
+  text-align: center;
+}
+
+.orderBook {
+  height: calc(100% - 65px);
+  background: white;
+  text-align: center;
+}
+
+.orderTable{
+  width: 100%;
+  height: calc(100% - 25px);
+  overflow-y: scroll;
+  text-align: center;
+}
+
+.marketSizeView{
+  width: 10%;
+  text-align: center;
+}
+
+
+.marketSize{
+  width: 30%;
+  text-align: right;
+}
+
+.priceAsks{
+  width: 30%;
+  text-align: center;
+  color: red;
+}
+
+.priceBids{
+  width: 30%;
+  text-align: center;
+  color: green;
+}
+
+.mySizeTitle{
+  width: 30%;
+  text-align: center;
+}
+
+
+.mySize{
+  width: 30%;
+  text-align: right;
+}
+
+.usdSpread{
+  height: 25px;
+  width: 100%;
+  text-align: left;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

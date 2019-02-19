@@ -1,0 +1,14 @@
+.form{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.formItem {
+  max-width: 50%;
+}
+
+.orderFills {
+  height: calc(50% - 80px);
+}

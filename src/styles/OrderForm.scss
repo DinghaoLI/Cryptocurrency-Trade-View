@@ -1,0 +1,26 @@
+.orderForm {
+  height: 100%;
+  background: #f0f2f5;
+}
+
+.border {
+  border: solid 1px gray;
+}
+
+.header {
+  font-size: 16px;
+  font-weight: 500;
+  padding-bottom: 20px;
+}
+
+.row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.container {
+  padding: 10px 20px;
+}

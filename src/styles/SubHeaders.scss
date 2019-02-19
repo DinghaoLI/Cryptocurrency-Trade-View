@@ -1,0 +1,30 @@
+.subHeaders {
+  display: flex;
+  align-items: center;
+  background-color: #e8e9ea;
+  height: 40px;
+  width: 100%;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 20px;
+  font-size: 18px;
+}
+
+.subHeaders2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #e8e9ea;
+  height: 40px;
+  width: 100%;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+
+

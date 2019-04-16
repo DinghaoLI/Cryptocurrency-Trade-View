@@ -1,4 +1,4 @@
-# Cinance-Trade-View
+# Cryptocurrency-Trade-View
 
 ## roadhog + Reactjs + anyChart + Antd
 
